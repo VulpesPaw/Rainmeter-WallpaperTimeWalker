@@ -14,6 +14,7 @@ Example:
 -  following images are modified and does not fully resemble original image)
 
 These changes towards night in my case:
+
 <img title="Fully Colour Samurai" alt="Fully Colour Samurai" src="https://imgur.com/t3pHzSy">
 
 <img title="Faded Colour Samurai" alt="Faded Colour Samurai" src="https://imgur.com/AyoOTfD">
