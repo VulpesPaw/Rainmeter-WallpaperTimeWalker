@@ -14,7 +14,7 @@ Example:
 -  following images are modified and does not fully resemble original image)
 
 These changes towards night in my case
-<img title="Fully Colour Samurai" alt="Alt text" src="https://imgur.com/t3pHzSy">
-<img title="Faded Colour Samurai" alt="Alt text" src="https://imgur.com/AyoOTfD">
-<img title="BlackWhite Colour Samurai" alt="Alt text" src="https://imgur.com/UebynSX">
-<img title="No Background Samurai" alt="Alt text" src="https://imgur.com/o69iQFi">
+<img title="Fully Colour Samurai" alt="Fully Colour Samurai" src="https://imgur.com/t3pHzSy">
+<img title="Faded Colour Samurai" alt="Faded Colour Samurai" src="https://imgur.com/AyoOTfD">
+<img title="BlackWhite Colour Samurai" alt="BlackWhite Colour Samurai" src="https://imgur.com/UebynSX">
+<img title="No Background Samurai" alt="No Background Samurai" src="https://imgur.com/o69iQFi">
