@@ -18,11 +18,6 @@ In the included ``.\BG`` folder there are a black and a biege background meant f
 
 These changes towards night in my case:
 
-<img title="Fully Colour Samurai" alt="Fully Colour Samurai" src="https://imgur.com/t3pHzSy">
+![Image Example](https://i.imgur.com/FDQbWDS.png "Image Example")
 
-<img title="Faded Colour Samurai" alt="Faded Colour Samurai" src="https://imgur.com/AyoOTfD">
-
-<img title="BlackWhite Colour Samurai" alt="BlackWhite Colour Samurai" src="https://imgur.com/UebynSX">
-
-<img title="No Background Samurai" alt="No Background Samurai" src="https://imgur.com/o69iQFi">
 
